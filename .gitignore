@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+demo.db
+
+# Secrets and local config
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Build artefacts
+node_modules/
+supplier-radar.zip
+
+# Challenge files provided by Accenture (not redistributed)
+supplier-radar/data/Supplier_Risk_1_Training.xlsx
+supplier-radar/data/Supplier_Risk_2_Validation.xlsx
+supplier-radar/data/Supplier_Risk_3_Test.xlsx

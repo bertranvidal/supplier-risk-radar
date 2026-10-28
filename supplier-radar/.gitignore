@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+# Trained weights (too large for git; created by train_*.py)
+models/
+
+# Run outputs
+out/*
+!out/.gitkeep
+
+# Secrets and local config
+.env

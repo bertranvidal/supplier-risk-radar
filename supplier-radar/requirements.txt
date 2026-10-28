@@ -1,0 +1,14 @@
+pandas
+openpyxl
+pydantic
+requests
+fastapi
+uvicorn[standard]
+scikit-learn
+streamlit
+pydeck
+torch
+transformers
+sentencepiece
+datasets
+python-dotenv
