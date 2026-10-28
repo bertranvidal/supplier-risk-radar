@@ -218,9 +218,7 @@ supplier-radar/
 
 Lucía Gómez Jiménez, Bertrán Vidal Campos, José Miguel Serrano, Alejandro Gómez Ares and Ángela Martínez.
 
-## Team
 
-Lucía Gómez Jiménez, Bertrán Vidal Campos, José Miguel Serrano, Alejandro Gómez Ares and Ángela Martínez.
 
 ## Data
 
